@@ -1,0 +1,15 @@
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\bin\Debug\net5.0\Registeration.BLL.deps.json
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\bin\Debug\net5.0\Registeration.BLL.dll
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\bin\Debug\net5.0\Registeration.BLL.pdb
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.csproj.AssemblyReference.cache
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.AssemblyInfoInputs.cache
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.AssemblyInfo.cs
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.csproj.CoreCompileInputs.cache
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.dll
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\refint\Registeration.BLL.dll
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.pdb
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\ref\Registeration.BLL.dll
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\bin\Debug\net5.0\Registerstion.DAL.dll
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\bin\Debug\net5.0\Registerstion.DAL.pdb
+E:\Collage\Graduation Project\RegistrationSystem\Registeration.BLL\obj\Debug\net5.0\Registeration.BLL.csproj.CopyComplete
